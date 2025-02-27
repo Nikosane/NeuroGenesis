@@ -52,9 +52,6 @@ NeuroGenesis can be integrated with SaneGenesis by linking decision storage file
 - Optimize inference time for real-time decision-making.
 - Implement reinforcement learning for adaptive decision refinement.
 
-## License
-MIT License
-
 ## Contact
 For queries, reach out to [niteshkotian3@gmail.com].
 
